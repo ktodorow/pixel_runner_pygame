@@ -6,7 +6,6 @@ Pixel Runner is my first game and it's a fun and engaging 2D platformer game dev
 
 - **Dynamic Gameplay**: Avoid various types of obstacles such as flies and snails.
 - **Jump Mechanic**: Jump using the spacebar to avoid obstacles and gain points.
-- **Scalable Graphics**: Supports image scaling for different visual effects.
 
 ## Installation
 
