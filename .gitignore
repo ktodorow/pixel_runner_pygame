@@ -1,0 +1,9 @@
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore virtual environment directory
+pixel_runner/venv/
+
+# Ignore configuration files
+config.json
